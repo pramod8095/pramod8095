@@ -1,7 +1,7 @@
 Hi👋, 
 
 My name is Pramod and I'm a web developer based on Bangalore.
-I love playing around with ReactJS  and hopefully creating something that makes people smile 😊. 
+I love playing around with ReactJS  and creating something that makes people smile 😊. 
 
 I enjoy turning complex problems into simple, beautiful and intuitive designs. When I'm not pushing pixels, you'll find me cooking 🍳, gardening 🧑‍🌾 or Walking in the park 🏞️.
 
