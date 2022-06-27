@@ -10,8 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pramod8095&show_icons=true)
 
-## Total visits 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/pramod8095)
+##Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=pramod8095)
+
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
