@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pramod8095
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning ReactJS, JavaScript, HTML, CSS, Redux and many more
-- 💞️ I’m looking to collaborate on just drop mail to kpramod1494@gmail.com 📫
+Hi👋, 
 
+My name is Pramod and I'm a web developer based on Bangalore ![RcbWinGIF](https://user-images.githubusercontent.com/74644178/175951290-89711903-624f-42b5-a22b-46680e8af42d.gif)
+.
+I love playing around with ReactJS  and hopefully creating something that makes people smile 😊. I enjoy turning complex problems into simple, beautiful and intuitive designs. When I'm not pushing pixels, you'll find me cooking 🍳, gardening 🧑‍🌾 or Walking in the park 🏞️.
 <!---
 pramod8095/pramod8095 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
