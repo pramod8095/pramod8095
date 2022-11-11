@@ -1,9 +1,10 @@
 # Hi, I'm Pramod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-[<img align="left" alt="pramod-k-300bb5a2 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="kpramod8095 | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="kpramod8095 | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium]
+[<img align="left" alt="tassiaaccioly | Dev.to" width="22px" src="./dev-dot-to.svg" />][devto]
 
 <br>
 <br>
