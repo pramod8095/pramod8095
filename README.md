@@ -29,3 +29,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+[linkedin]: https://www.linkedin.com/in/pramod-k-300bb5a2/
+[twitter]: https://www.twitter.com/kpramod8095/
+[gmail]: mailto:kpramod8095@gmail.com
